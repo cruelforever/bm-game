@@ -1,0 +1,10 @@
+<style>
+  .credit {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+    background-color: lightgray;
+    font-size: 12px;
+  }
+</style>
